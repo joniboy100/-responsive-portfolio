@@ -1,0 +1,36 @@
+
+body {
+    background-color:  #073385;
+}
+
+.header {
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #040b1a;
+    color: #ffffff;
+    text-align: left;
+}
+
+.side { border: 100px;
+        padding: 20px;
+
+}
+
+.header h1 { color: lawngreen;  
+             font-style: oblique;
+             align-items: baseline;
+}
+.side h1 { align-self: stretch;
+      color: lawngreen;
+      font-style: oblique;
+}
+
+.main-body {padding-top: 70px;
+
+
+}
+
+.container-md {float: left;
+            border: inherit;
+            padding: 100px;
+}
